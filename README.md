@@ -1,7 +1,7 @@
  
-#Implemented Code for Following models for Titanic Dataset
+Implemented Code for Following models for Titanic Dataset
 
-1)Support Vector Machines 
+1)Support Vector Machines
 2)KNN
 3)Logistic Regression
 4)Random Forest 
